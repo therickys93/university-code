@@ -8,4 +8,5 @@ The title of the folder in the main directory are the names of the course <br />
 I study at Università degli Studi di Milano <br />
 <br />
 List of all the content: <br />
-- architetturaI -> make a project with the Logisim software
+- architetturaI -> make a project with the Logisim software <br />
+- programmazione -> files made during an exam in java
