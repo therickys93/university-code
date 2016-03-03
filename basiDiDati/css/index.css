@@ -1,0 +1,184 @@
+/**
+ * index.css
+ *
+ * Riccardo Crippa
+ * therickys93@gmail.com
+ *
+ * simple css stylesheet
+ */
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	font-size: 22px;
+	background-color: #f0ffff;
+}
+
+h1, h3
+{
+	color: #4aaee7;
+}
+
+input, select
+{
+	font-size: 22px;
+}
+
+input[type=submit]
+{
+    color: #ffffff;
+    background-color: #4aaee7;
+    border: none;
+    border-radius: 10px;
+}
+
+input[type=text], input[type=password]
+{
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #4aaee7;
+    border-radius: 10px;
+}
+
+.login_div
+{
+	float: right;
+	width: 50%;
+}
+
+.login_div_form
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 50%;
+	margin: auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.login_div_form table
+{
+    width: 100%;
+}
+
+.signup_form, input 
+{
+	width: 90%;	
+}
+
+.login_form, input, select
+{
+	width: 90%;
+}
+
+.error
+{
+	color: #ff0000;
+}
+
+.success
+{
+	color: #00ff00;
+}
+
+.signup_div
+{
+	float: left;
+	width: 50%;
+}
+
+.signup_div_form
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 50%;
+	margin: auto;
+    background-color: #ffffff;
+}
+
+.signup_div_form table
+{
+    width: 100%;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.header
+{
+	background-color: #4aaee7;
+	padding: 5px;
+}
+
+.content_left
+{
+	float: left;
+	margin-left: 5px;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.content_right
+{
+	float: right;
+	margin-right: 5px;
+}
+
+.content_right ul
+{
+	list-style: none;
+	margin: auto;
+	padding: 0px;
+}
+
+.content_right ul li
+{
+	float: left;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 4px;
+}
+
+.content_right ul li a
+{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.content_right ul li a:hover
+{
+	color: #4aaee7;
+	background-color: #ffffff;
+}
+
+.content 
+{
+	width: 75%;
+	margin: auto;
+	margin-top: 20px;
+}
+
+a
+{
+    color: #4aaee7;
+    text-decoration: none;    
+}
+
+.table
+{
+	width: 100%;
+	margin-top: 10px;
+	border: 1px solid #000000;
+	margin-bottom: 20px;
+}
+
+.td
+{
+	border: 1px solid #000000;
+	text-align: center;
+}
