@@ -1,0 +1,36 @@
+{
+    "version": "0.1.0",
+    "command": "sh",
+    "args": ["-c"],
+    "isShellCommand": true,
+    "showOutput": "always",
+    "suppressTaskName": true,
+    "tasks": [
+        {
+            "taskName": "make",
+            "args": ["make"]
+        },
+        {
+            "taskName": "make pdf",
+            "args": [
+                "make pdf"
+            ]
+        },
+        {
+            "taskName": "make zip",
+            "args": [
+                "make zip"
+            ]
+        },
+        {
+            "taskName": "make clean",
+            "args": ["make clean"]
+        },
+        {
+            "taskName": "make buildubuntu",
+            "args": [
+                "make buildubuntu"
+            ]
+        }
+    ]
+}

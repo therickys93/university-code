@@ -12,3 +12,4 @@ List of all the content: <br />
 - programmazione -> files made during an exam in java ( compile with javac *.java and run with java Main) <br />
 - basi di dati -> make a project in php and mysql <br />
 - reti di calcolatori -> files made during an exam about socket ( compile with javac *.java ) <br />
+- architetturaII -> make a project in MIPS. It's a simple database that saves the best time of an athlete.

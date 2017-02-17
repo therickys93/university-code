@@ -1,0 +1,19 @@
+{
+  "name": "archiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://therickys93@bitbucket.org/therickys93/archiii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/therickys93/archiii#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}
